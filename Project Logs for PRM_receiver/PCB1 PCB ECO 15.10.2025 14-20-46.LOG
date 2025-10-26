@@ -1,0 +1,4 @@
+Added Component: Designator=HA1(PKLCS1212E4001)
+Added Pin To Net: NetName=Vcc Pin=HA1-1
+Added Pin To Net: NetName=NetHA1_2 Pin=HA1-2
+Added Member To Class: ClassName=Sheet1 Member=Component HA1 =Value

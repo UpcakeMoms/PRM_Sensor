@@ -1,0 +1,191 @@
+Added Component: Designator=BT(BAT_BU2032SM-G)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BU2032SM-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BU2032SM-G/Memory%20Protection%20Devices/view-part/4219599/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(RESC0603)
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCase"; Value = "СМД"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeMaterial"; Value = "керам"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(RESC0603)
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCase"; Value = "СМД"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeMaterial"; Value = "керам"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(RESC0603)
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCase"; Value = "СМД"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeMaterial"; Value = "керам"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(RESC0603)
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCase"; Value = "СМД"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeMaterial"; Value = "керам"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(RESC0603)
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCase"; Value = "СМД"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeMaterial"; Value = "керам"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOIC-8)
+Add component (AddParameter): Name = "value"; Value = "LM358"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD1(RESC0603)
+Added Component: Designator=VT1(SOT-23)
+Add component (AddParameter): Name = "value"; Value = "BC817-40"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CONSMA008G)
+Added Pin To Net: NetName=GND Pin=BT-NEG
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=VT1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C4-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C5-2
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R3-2
+Added Pin To Net: NetName=NetC2_2 Pin=R4-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C?-1
+Added Pin To Net: NetName=NetC3_1 Pin=X1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R7-1
+Added Pin To Net: NetName=NetDA1_5 Pin=R9-2
+Added Pin To Net: NetName=NetDA1_5 Pin=R10-2
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R6-2
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R6-1
+Added Pin To Net: NetName=NetDA1_7 Pin=R8-1
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetHA1_2 Pin=VD1-1
+Added Pin To Net: NetName=NetHA1_2 Pin=VT1-3
+Added Net: Name=NetHA1_2
+Added Pin To Net: NetName=NetLabel1 Pin=DA1-1
+Added Pin To Net: NetName=NetLabel1 Pin=R1-2
+Added Pin To Net: NetName=NetLabel1 Pin=R9-1
+Added Net: Name=NetLabel1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=VD1-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R11-2
+Added Pin To Net: NetName=NetR8_2 Pin=VT1-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=Vcc Pin=BT-POS
+Added Pin To Net: NetName=Vcc Pin=C1-2
+Added Pin To Net: NetName=Vcc Pin=DA1-8
+Added Pin To Net: NetName=Vcc Pin=R2-2
+Added Pin To Net: NetName=Vcc Pin=R5-2
+Added Pin To Net: NetName=Vcc Pin=R7-2
+Added Net: Name=Vcc
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,10 @@
+Added Component: Designator=R4(RESC0603)
+Add component (AddParameter): Name = "GOSTGroup"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.25Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPM"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "90k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetC2_2 Pin=R4-2
+Added Member To Class: ClassName=Sheet1 Member=Component R4 90k
+Added Member To Class: ClassName=Sheet1 Member=Component R7 270k
